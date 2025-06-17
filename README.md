@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/squirrelogic-mcp-architect-badge.png)](https://mseep.ai/app/squirrelogic-mcp-architect)
+
 # MCP Architect
 
 A Model Context Protocol server that provides comprehensive architectural expertise through specialized agents, resources, and tools.
